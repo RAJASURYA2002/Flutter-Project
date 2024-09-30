@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920604788061",
+    "project_id": "heyconvo-54857",
+    "storage_bucket": "heyconvo-54857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920604788061:android:29c0bb34444dd238fc54b4",
+        "android_client_info": {
+          "package_name": "com.heyconvo.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgtfvbZbhll3nGHC1ukzMlNWpGuMcExck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
