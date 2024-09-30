@@ -1,0 +1,9 @@
+CarouselSlider(
+  options: CarouselOptions(),
+  items: list
+      .map((item) => Container(
+            child: Center(child: Text(item.toString())),
+            color: Colors.green,
+          ))
+      .toList(),
+),
